@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System;
+using System.Linq;
 using System.Threading.Tasks;
 using APBD_8.Models;
 using Microsoft.AspNetCore.Mvc;
@@ -35,7 +36,7 @@ namespace TravelApi.Controllers
             {
                 pageNum,
                 pageSize,
-                allPages = (int)System.Math.Ceiling((double)totalRecords / pageSize),
+                allPages = (int)Math.Ceiling((double)totalRecords / pageSize),
                 trips = trips.Select(t => new
                 {
                     t.Name,
@@ -49,6 +50,60 @@ namespace TravelApi.Controllers
             };
 
             return Ok(response);
+        }
+
+        [HttpPost("{idTrip}/clients")]
+        public async Task<IActionResult> AssignClientToTrip(int idTrip, [FromBody] ClientAssignmentDto clientDto)
+        {
+            var trip = await _context.Trips
+                .Include(t => t.ClientTrips)
+                .FirstOrDefaultAsync(t => t.IdTrip == idTrip);
+
+            if (trip == null || trip.DateFrom <= DateTime.Now)
+            {
+                return BadRequest(new { message = "Trip does not exist or has already started" });
+            }
+
+            var existingClient = await _context.Clients
+                .FirstOrDefaultAsync(c => c.Pesel == clientDto.Pesel);
+
+            if (existingClient != null)
+            {
+                var clientOnTrip = await _context.ClientTrips
+                    .FirstOrDefaultAsync(ct => ct.IdClient == existingClient.IdClient && ct.IdTrip == idTrip);
+
+                if (clientOnTrip != null)
+                {
+                    return BadRequest(new { message = "Client is already registered for this trip" });
+                }
+            }
+            else
+            {
+                existingClient = new Client
+                {
+                    FirstName = clientDto.FirstName,
+                    LastName = clientDto.LastName,
+                    Email = clientDto.Email,
+                    Telephone = clientDto.Telephone,
+                    Pesel = clientDto.Pesel
+                };
+
+                _context.Clients.Add(existingClient);
+                await _context.SaveChangesAsync();
+            }
+
+            var newClientTrip = new Client_Trip
+            {
+                IdClient = existingClient.IdClient,
+                IdTrip = idTrip,
+                RegisteredAt = DateTime.Now,
+                PaymentDate = clientDto.PaymentDate
+            };
+
+            _context.ClientTrips.Add(newClientTrip);
+            await _context.SaveChangesAsync();
+
+            return Ok(new { message = "Client successfully assigned to the trip" });
         }
     }
 }
