@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s25717\\source\\repos\\APBD_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|c:\\users\\s25717\\source\\repos\\apbd_8\\apbd_8\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|solutionrelative:apbd_8\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|c:\\users\\s25717\\source\\repos\\apbd_8\\apbd_8\\models\\traveldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|solutionrelative:apbd_8\\models\\traveldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|c:\\users\\s25717\\source\\repos\\apbd_8\\apbd_8\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|solutionrelative:apbd_8\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|c:\\users\\s25717\\source\\repos\\apbd_8\\apbd_8\\models\\client_trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|solutionrelative:apbd_8\\models\\client_trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|c:\\users\\s25717\\source\\repos\\apbd_8\\apbd_8\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|solutionrelative:apbd_8\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|c:\\users\\s25717\\source\\repos\\apbd_8\\apbd_8\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|solutionrelative:apbd_8\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|c:\\users\\s25717\\source\\repos\\apbd_8\\apbd_8\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|solutionrelative:apbd_8\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|c:\\users\\s25717\\source\\repos\\apbd_8\\apbd_8\\models\\country_trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|solutionrelative:apbd_8\\models\\country_trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|c:\\users\\s25717\\source\\repos\\apbd_8\\apbd_8\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|solutionrelative:apbd_8\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|c:\\users\\s25717\\source\\repos\\apbd_8\\apbd_8\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|solutionrelative:apbd_8\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|c:\\users\\s25717\\source\\repos\\apbd_8\\apbd_8\\apbd_8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|solutionrelative:apbd_8\\apbd_8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|c:\\users\\s25717\\source\\repos\\apbd_8\\apbd_8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8328CA4-DEC1-40BC-9D0B-62D904FE5473}|APBD_8\\APBD_8.csproj|solutionrelative:apbd_8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\Startup.cs",
+              "RelativeDocumentMoniker": "APBD_8\\Startup.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\Startup.cs*",
+              "RelativeToolTip": "APBD_8\\Startup.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:36:43.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "APBD_8\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\Models\\Country.cs",
+              "RelativeToolTip": "APBD_8\\Models\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:14:21.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TravelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\Models\\TravelDbContext.cs",
+              "RelativeDocumentMoniker": "APBD_8\\Models\\TravelDbContext.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\Models\\TravelDbContext.cs",
+              "RelativeToolTip": "APBD_8\\Models\\TravelDbContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:34:04.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client_Trip.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\Models\\Client_Trip.cs",
+              "RelativeDocumentMoniker": "APBD_8\\Models\\Client_Trip.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\Models\\Client_Trip.cs",
+              "RelativeToolTip": "APBD_8\\Models\\Client_Trip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:14:09.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "APBD_8\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\Controllers\\ClientsController.cs*",
+              "RelativeToolTip": "APBD_8\\Controllers\\ClientsController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:21:29.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TripsController.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\Controllers\\TripsController.cs",
+              "RelativeDocumentMoniker": "APBD_8\\Controllers\\TripsController.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\Controllers\\TripsController.cs*",
+              "RelativeToolTip": "APBD_8\\Controllers\\TripsController.cs*",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:39:57.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "APBD_8\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\Models\\Client.cs",
+              "RelativeToolTip": "APBD_8\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:13:47.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Country_Trip.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\Models\\Country_Trip.cs",
+              "RelativeDocumentMoniker": "APBD_8\\Models\\Country_Trip.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\Models\\Country_Trip.cs",
+              "RelativeToolTip": "APBD_8\\Models\\Country_Trip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:14:44.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\Models\\Trip.cs",
+              "RelativeDocumentMoniker": "APBD_8\\Models\\Trip.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\Models\\Trip.cs",
+              "RelativeToolTip": "APBD_8\\Models\\Trip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:13:57.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "APBD_8\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\appsettings.Development.json",
+              "RelativeToolTip": "APBD_8\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T12:15:01.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "APBD_8",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\APBD_8.csproj",
+              "RelativeDocumentMoniker": "APBD_8\\APBD_8.csproj",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\APBD_8.csproj",
+              "RelativeToolTip": "APBD_8\\APBD_8.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T12:22:59.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\appsettings.json",
+              "RelativeDocumentMoniker": "APBD_8\\appsettings.json",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_8\\APBD_8\\appsettings.json",
+              "RelativeToolTip": "APBD_8\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T12:14:58.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
